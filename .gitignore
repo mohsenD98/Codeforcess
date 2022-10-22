@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+*.idx
+*.pro.user
+Makefile
+*.json
+*.stash
